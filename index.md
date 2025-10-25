@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Payment Security Testing Guide
-tags: example-tag
+tags: example-tag, contributors-tag
 level: 2
 type: documentation
 pitch: A very brief, one-line description of your project
