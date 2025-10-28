@@ -8,7 +8,7 @@ Please **do not create a public GitHub issue** for security-related matters.
 
 Instead, contact the **project leaders directly** at:
 
-📧 **[anurag.mishra@owasp.org, ravi.mishra@owasp.org]**
+📧 **anurag.mishra@owasp.org, ravi.mishra@owasp.org**
 
 When reporting, please include:
 - A clear description of the vulnerability and its potential impact.
